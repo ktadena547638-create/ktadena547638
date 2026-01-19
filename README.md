@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋I am Kenny!</h1>
+<h1 align="center">Wassup 👋!</h1>
 
 ###
 
-<h3 align="center">I am front end developer!</h3>
+<h3 align="center">Hello World! I'm Kenny Ray M. Tadena I’m an aspiring Software Engineer with a deep curiosity for how things work under the hood. I’m currently building my foundation in web development and looking to contribute to meaningful projects.</h3>
 
 
 
