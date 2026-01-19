@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Hello World! I'm Kenny Ray M. Tadena I’m an aspiring Software Engineer with a deep curiosity for how things work under the hood. I’m currently building my foundation in web development and looking to contribute to meaningful projects.</h3>
+<h4 align="center">Hello World! I'm Kenny Ray M. Tadena I’m an aspiring Web developer with a deep curiosity for how things work under the hood. I’m currently building my foundation in web development and looking to contribute to meaningful projects.</h4>
 
 
 
